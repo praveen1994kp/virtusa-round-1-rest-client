@@ -1,3 +1,6 @@
+Deployed [here](http://virtusa-round-1-rest-client.vercel.app/)
+
+
 # Original Question:
 ~~~
 Write a program to call the below mentioned rest APIs.
